@@ -1,13 +1,13 @@
 {
-  "main.css": "/SignIn-Up-Form/static/css/main.fb62e44d.chunk.css",
-  "main.js": "/SignIn-Up-Form/static/js/main.13b040d6.chunk.js",
-  "main.js.map": "/SignIn-Up-Form/static/js/main.13b040d6.chunk.js.map",
+  "main.css": "/SignIn-Up-Form/static/css/main.c56fe71a.chunk.css",
+  "main.js": "/SignIn-Up-Form/static/js/main.390b759e.chunk.js",
+  "main.js.map": "/SignIn-Up-Form/static/js/main.390b759e.chunk.js.map",
   "runtime~main.js": "/SignIn-Up-Form/static/js/runtime~main.0ed6b531.js",
   "runtime~main.js.map": "/SignIn-Up-Form/static/js/runtime~main.0ed6b531.js.map",
   "static/js/2.0f58faaa.chunk.js": "/SignIn-Up-Form/static/js/2.0f58faaa.chunk.js",
   "static/js/2.0f58faaa.chunk.js.map": "/SignIn-Up-Form/static/js/2.0f58faaa.chunk.js.map",
   "index.html": "/SignIn-Up-Form/index.html",
-  "precache-manifest.a19c5f22a914b7fa7ead1e95ae85c40c.js": "/SignIn-Up-Form/precache-manifest.a19c5f22a914b7fa7ead1e95ae85c40c.js",
+  "precache-manifest.c2d9ef78f2ed544a8cdc1cd32f317607.js": "/SignIn-Up-Form/precache-manifest.c2d9ef78f2ed544a8cdc1cd32f317607.js",
   "service-worker.js": "/SignIn-Up-Form/service-worker.js",
-  "static/css/main.fb62e44d.chunk.css.map": "/SignIn-Up-Form/static/css/main.fb62e44d.chunk.css.map"
+  "static/css/main.c56fe71a.chunk.css.map": "/SignIn-Up-Form/static/css/main.c56fe71a.chunk.css.map"
 }
